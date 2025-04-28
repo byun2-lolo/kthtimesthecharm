@@ -1,8 +1,8 @@
-# $k$th Time's the Charm
+# $k$-th Time's the Charm
 
 ## How to Use
 
-The file out*n*.txt contains possible $k$th Time's the Charm sequences for $N=n$ in the form:
+The file out*n*.txt contains possible $k$-th Time's the Charm sequences for $N=n$ in the form:
 
 ```fence
 [a1, a2, a3, ...] k
